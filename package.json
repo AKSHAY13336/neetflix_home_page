@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "neetflix-streaming-clone",
+=======
+  "name": "netflix-streaming-clone",
+>>>>>>> 0605aab7482f9854a30383d97ff19e0e1a7b4ba9
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -28,4 +32,8 @@
       "last 1 safari version"
     ]
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0605aab7482f9854a30383d97ff19e0e1a7b4ba9
