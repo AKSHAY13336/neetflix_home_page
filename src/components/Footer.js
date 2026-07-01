@@ -1,7 +1,7 @@
 const columns = [
   ["FAQ", "Investor Relations", "Privacy", "Speed Test"],
   ["Help Center", "Jobs", "Cookie Preferences", "Legal Notices"],
-  ["Account", "Ways to Watch", "Corporate Information", "Only on Netflix"],
+  ["Account", "Ways to Watch", "Corporate Information", "Only on Neetflix"],
   ["Media Center", "Terms of Use", "Contact Us", "Gift Cards"],
 ];
 
@@ -27,7 +27,7 @@ function Footer() {
           <a href="#hero" aria-label="Twitter">x</a>
           <a href="#hero" aria-label="YouTube">yt</a>
         </div>
-        <p className="country">Netflix Clone</p>
+        <p className="country">Neetflix Clone</p>
       </div>
     </footer>
   );

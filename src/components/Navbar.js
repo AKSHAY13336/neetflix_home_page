@@ -1,8 +1,8 @@
 function Navbar() {
   return (
     <header className="navbar">
-      <a className="brand" href="#hero" aria-label="Netflix clone home">
-        NETFLIX
+      <a className="brand" href="#hero" aria-label="Neetflix clone home">
+        NEETFLIX
       </a>
       <nav aria-label="Primary navigation">
         <a href="#tabs">Browse</a>
